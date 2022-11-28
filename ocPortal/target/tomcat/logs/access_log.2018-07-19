@@ -1,0 +1,7 @@
+0:0:0:0:0:0:0:1 - - [19/Jul/2018:12:28:17 +0800] "GET /ocPortal/ HTTP/1.1" 200 38910 http-bio-8080-exec-1 1398
+0:0:0:0:0:0:0:1 - - [19/Jul/2018:12:28:17 +0800] "GET /ocPortal/tools/identiry/code.html HTTP/1.1" 200 1511 http-bio-8080-exec-4 148
+0:0:0:0:0:0:0:1 - - [19/Jul/2018:12:28:20 +0800] "GET /ocPortal/course/list.html HTTP/1.1" 200 27074 http-bio-8080-exec-5 98
+0:0:0:0:0:0:0:1 - - [19/Jul/2018:12:28:20 +0800] "GET /ocPortal/tools/identiry/code.html HTTP/1.1" 200 1546 http-bio-8080-exec-6 11
+0:0:0:0:0:0:0:1 - - [19/Jul/2018:12:28:21 +0800] "GET /ocPortal/user/home.html HTTP/1.1" 302 - http-bio-8080-exec-7 3
+0:0:0:0:0:0:0:1 - - [19/Jul/2018:12:28:29 +0800] "GET /ocPortal/user/home.html HTTP/1.1" 302 - http-bio-8080-exec-8 2
+0:0:0:0:0:0:0:1 - - [19/Jul/2018:13:21:39 +0800] "GET /ocPortal/user/home.html HTTP/1.1" 302 - http-bio-8080-exec-4 12
